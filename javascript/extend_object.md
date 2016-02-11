@@ -1,6 +1,6 @@
 #Extend Object
 
-I use [Lodash](https://lodash.com) in my development for its use of integration and the powerful utilities it offers.
+I use [Lodash](https://lodash.com) in my development for its ease of integration and the powerful utilities it offers.
 
 Lodash provides a function [assignIn](https://lodash.com/docs#assignIn) that I use for overriding library options.
 
@@ -43,3 +43,5 @@ options: {
 ```
 
 Congratulations you just passed your new options to your function!
+
+_Note: this can also be done with [jQuery](http://api.jquery.com/jQuery.extend/) since v1.1.4 using `$.extend(obj2, obj1);`_
