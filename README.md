@@ -1,4 +1,4 @@
-# TILT
+# Things I Learned Today
 
 A cheap knockoff of [Thoughtbot's TIL](https://github.com/thoughtbot/til)
 
