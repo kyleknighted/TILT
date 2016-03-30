@@ -1,6 +1,6 @@
 # @at-root
 
-Sometimes you need styles to be specific, sometimes less. Let's look at where [@at-root](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#at-root) can help us!
+Sometimes you need styles to be more specific, sometimes less. Let's look at where [@at-root](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#at-root) can help us!
 
 ```html
 <div class="wrapper">
