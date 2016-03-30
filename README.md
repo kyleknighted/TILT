@@ -9,5 +9,10 @@ Some days I might not learn ANYTHING, because I was lazy or sick or something el
 Maybe it's not even something I learn, but something that's just interesting and would make a fun write up.
 
 ## Javascript
-
 - [Extend Object](javascript/extend_object.md)
+
+## SCSS
+- [@at-root](javascript/at-root.md)
+
+## Git
+- [Simultaneous Push](javascript/simultaneous_push.md)
