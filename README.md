@@ -12,7 +12,7 @@ Maybe it's not even something I learn, but something that's just interesting and
 - [Extend Object](javascript/extend_object.md)
 
 ## SCSS
-- [@at-root](javascript/at-root.md)
+- [@at-root](scss/at-root.md)
 
 ## Git
-- [Simultaneous Push](javascript/simultaneous_push.md)
+- [Simultaneous Push](git/simultaneous_push.md)
