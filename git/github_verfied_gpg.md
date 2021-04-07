@@ -74,6 +74,6 @@ Then, in your Git Bash terminal
 - `git config --global user.signingkey E870EE00B5243537` the key to use to sign the commits
 - `echo 'no-tty' >> ~/.gnupg/gpg.conf` This isn't always necessary, but can resolve issues with using IDEs
 
-Please leave a comment below if I missed any steps or if there are better ways to accomplish this!
+Please leave an issue in the repo, or submit a PR, if I missed any steps or if there are better ways to accomplish this!
 
 Thanks for reading.
